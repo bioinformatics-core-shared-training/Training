@@ -51,6 +51,13 @@ Here is a list of courses that the Bioinformatics Core has created or contribute
 * [Introduction to High Performance Computing](https://bioinformatics-core-shared-training.github.io/hpc/)
 
 
+#### Advanced
+
+* [Creating analysis pipelines with Nextflow](https://github.com/bioinformatics-core-shared-training/nextflow_september_2021)
+* [Introduction to Docker for Bioinformatics](https://bioinformatics-core-shared-training.github.io/docker-4-bioinformatics/)
+* [Writing web-apps for Bioinformatics with Shiny](https://bioinformatics-core-shared-training.github.io/shiny-bioinformatics/)
+
+
 
 
 
