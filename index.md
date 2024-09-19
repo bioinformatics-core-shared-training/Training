@@ -17,4 +17,4 @@ The Bioinformatics Core members run or teach the following training courses.
 |Analysis of bulk RNA-seq data|12, 19 and 26 November 2024|Bioinformatics Training Room, Craik-Marshall Building| Not bookable. Only for SBS MPhill students.|
 |Introduction to R for Biologists|21 and 22 November 2024|Online Training| [Book](https://www.training.cam.ac.uk/bioinformatics/event/5332967)|
 |Analysis of single cell RNA-seq data|2, 6, and 9 December 2024|Online Training|[Book](https://training.cam.ac.uk/bioinformatics/event/5290529)|
-|Introduction to Python for Biologists|12 and 13 December 2024|Online Training|[]Book](https://training.cam.ac.uk/bioinformatics/event/5333011)|
+|Introduction to Python for Biologists|12 and 13 December 2024|Online Training|[Book](https://training.cam.ac.uk/bioinformatics/event/5333011)|
