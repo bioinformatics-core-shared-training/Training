@@ -14,3 +14,4 @@ The Bioinformatics Core members run or teach the following training courses.
 |Analysis of bulk RNA-seq data                       |2, 3 and 4 October 2024|Bioinformatics Training Room, Craik-Marshall Building| [Book](https://training.cam.ac.uk/bioinformatics/event/5290335)|
 |Experimental design|10 October 2024|CRUK CI Postgraduate Training Programme (internal)|Not bookable|
 |Introduction to Statistics| 8 November 2024| CRUK CI (Internal)| Advertise in October, and book via email|
+|Analysis of bulk RNA-seq data|12, 19 and 26 November 2024|Bioinformatics Training Room, Craik-Marshall Building| Not bookable. Only for SBS MPhill students|
