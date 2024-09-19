@@ -3,6 +3,7 @@
 The Bioinformatics Core offers courses throughout the year. Many of them are classroom-based courses delivered in collaboration with the University's [Bioinformatics Training Facility](https://bioinfotraining.bio.cam.ac.uk/), with a focus on hands-on, practical learning.
 
 ## Upcoming Courses
+
 The Bioinformatics Core members run or teach the following training courses.
 
 ### Michaelmas Term 2024
@@ -19,6 +20,13 @@ The Bioinformatics Core members run or teach the following training courses.
 |Analysis of single cell RNA-seq data|2, 6, and 9 December 2024|Online Training|[Book](https://training.cam.ac.uk/bioinformatics/event/5290529)|
 |Reproducible Research in R|3 December 2024|Wellcome Sanger Institute| Not bookable. Only for Sanger PhD students|
 |Introduction to Python for Biologists|12 and 13 December 2024|Online Training|[Book](https://training.cam.ac.uk/bioinformatics/event/5333011)|
+
+___________________________________________________________________________________________________________________________
+Clicking on the links will take you to a registration page. Courses without a booking link are not yet open for registration. These courses are generally popular so book up as early as possible. If a course is already fully booked, it is possible to add yourself to a waiting list from the booking page.
+
+Please contact Chandra Chilamakuri for more information on our training courses.
+
+### 
 
 
 ### Course Index and Materials
