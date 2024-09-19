@@ -19,3 +19,26 @@ The Bioinformatics Core members run or teach the following training courses.
 |Analysis of single cell RNA-seq data|2, 6, and 9 December 2024|Online Training|[Book](https://training.cam.ac.uk/bioinformatics/event/5290529)|
 |Reproducible Research in R|3 December 2024|Wellcome Sanger Institute| Not bookable. Only for Sanger PhD students|
 |Introduction to Python for Biologists|12 and 13 December 2024|Online Training|[Book](https://training.cam.ac.uk/bioinformatics/event/5333011)|
+
+
+### Course Index and Materials
+
+Here is a list of courses that the Bioinformatics Core has created or contributed to. For additional information about these courses, please contact Chandra Chilamakuri.
+
+#### Introductory
+
+* [An Introduction to Statistics](https://bioinformatics-core-shared-training.github.io/IntroductionToStats/)
+* [Introduction to Experimental Design](https://bioinformatics-core-shared-training.github.io/experimental-design/)
+* [R crash course](https://bioinformatics-core-shared-training.github.io/r-crash-course/)
+* [R basics](https://bioinformatics-core-shared-training.github.io/r-basics/) (whistle-stop tour of some of the more common functions in R for manipulating and visualizing data)
+* [R for Cancer Scientists](https://bioinformatics-core-shared-training.github.io/r-intro/index.html) (longer form R course run over 6 weeks/sessions)
+* [Introduction to solving biological problems with Python](https://pycam.github.io/)
+* [Basic Unix](https://bioinformatics-core-shared-training.github.io/shell-novice/)
+* [Managing your Research Data](https://bioinformatics-core-shared-training.github.io/Managing-your-research-data/)
+* [Avoiding data disasters](https://bioinformatics-core-shared-training.github.io//avoid-data-disaster/)
+* [Making the most of mRNA sequencing experiments at CRUK-CI](https://bioinformatics-core-shared-training.github.io/rnaseq-pipeline/)
+* [An Introduction to Genome Browsers](https://bioinformatics-core-shared-training.github.io/GenomeBrowserCourse/)
+* [Introduction to IGV](https://bioinformatics-core-shared-training.github.io/intro-to-IGV/) (Introducing the Integrative Genomics Viewer for visualising Next Generation Sequencing data)
+
+
+
