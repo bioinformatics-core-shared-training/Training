@@ -40,5 +40,17 @@ Here is a list of courses that the Bioinformatics Core has created or contribute
 * [An Introduction to Genome Browsers](https://bioinformatics-core-shared-training.github.io/GenomeBrowserCourse/)
 * [Introduction to IGV](https://bioinformatics-core-shared-training.github.io/intro-to-IGV/) (Introducing the Integrative Genomics Viewer for visualising Next Generation Sequencing data)
 
+#### Intermediate
+
+* [Bulk RNA-seq analysis in R](https://bioinformatics-core-shared-training.github.io/Bulk_RNAseq_Course_June24/)
+* [Single cell RNA-seq analysis](https://bioinformatics-core-shared-training.github.io/SingleCell_RNASeq_May24/)
+* [Introduction to Linear Modelling with R](https://bioinformatics-core-shared-training.github.io/linear-models-r/)
+* [Data manipulation and visualisation using R](https://bioinformatics-core-shared-training.github.io/r-intermediate/)
+* [Data Science in Python](https://pycam.github.io/)
+* [Analysis of publicly available microarray data](https://github.com/bioinformatics-core-shared-training/microarray-analysis)
+* [Introduction to High Performance Computing](https://bioinformatics-core-shared-training.github.io/hpc/)
+
+
+
 
 
