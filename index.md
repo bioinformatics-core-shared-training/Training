@@ -57,6 +57,21 @@ Here is a list of courses that the Bioinformatics Core has created or contribute
 * [Introduction to Docker for Bioinformatics](https://bioinformatics-core-shared-training.github.io/docker-4-bioinformatics/)
 * [Writing web-apps for Bioinformatics with Shiny](https://bioinformatics-core-shared-training.github.io/shiny-bioinformatics/)
 
+### Summer Schools
+
+From 2015 – 2021 we ran a hugely popular, annual Cancer Research UK Bioinformatics Summer School, offering a week-long residential training course in analysis of genomic sequencing data to CRUK-funded scientists from across the UK. The course materials for these and two Autumn/Winter Schools can be accessed via the links below.
+
+* 2021 (July):[Functional Genomics](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2021/)
+* 2020 (July):[Functional Genomics](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/)
+* 2019 (July):[Functional Genomics](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2019/)
+* 2018 (July):[Functional Genomics](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/)
+* 2017 (September):[Functional Genomics](https://bioinformatics-core-shared-training.github.io/cruk-autumn-school-2017/)
+* 2017 (July):[Analysis of Cancer Genomes](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2017/)
+* 2016 (December):[Essential Data Analysis Skills for Biologists](https://bioinformatics-core-shared-training.github.io/winter-school2016/)
+* 2016 (July):[Analysis of Cancer Genomes](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2016/)
+* 2015 (July):[Best Practices in the analysis of RNA-seq and ChIP-seq data](https://bioinformatics-core-shared-training.github.io/cruk-bioinf-sschool/)
+
+
 
 
 
