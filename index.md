@@ -24,9 +24,10 @@ The Bioinformatics Core members run or teach the following training courses.
 ___________________________________________________________________________________________________________________________
 Clicking on the links will take you to a registration page. Courses without a booking link are not yet open for registration. These courses are generally popular so book up as early as possible. If a course is already fully booked, it is possible to add yourself to a waiting list from the booking page.
 
-Please contact Chandra Chilamakuri for more information on our training courses.
+Please contact [Chandra Chilamakuri] for more information on our training courses.
 
-### 
+### Bioinformatics Training Facility at the Department of Genetics
+
 
 
 ### Course Index and Materials
