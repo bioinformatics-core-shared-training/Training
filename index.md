@@ -6,20 +6,26 @@ The Bioinformatics Core offers courses throughout the year. Many of them are cla
 
 The Bioinformatics Core members run or teach the following training courses.
 
-### Michaelmas Term 2024
+### Lent and Easter Terms 2025
 
 
 |Course                                              |       Dates      |       Venue         | Booking Link |
 |----------------------------------------------------|------------------|---------------------|--------------|
-|Introduction to R for Biologists                    | 16 and 17 September 2024| Bioinformatics Training Room, Craik-Marshall Building| [Book](https://training.cam.ac.uk/bioinformatics/event/5296424)|
-|Analysis of bulk RNA-seq data                       |2, 3 and 4 October 2024|Bioinformatics Training Room, Craik-Marshall Building| [Book](https://training.cam.ac.uk/bioinformatics/event/5290335)|
-|Experimental design|10 October 2024|CRUK CI Postgraduate Training Programme (internal)|Not bookable|
-|Introduction to Statistics| 8 November 2024| CRUK CI (Internal)| Advertise in October, and book via email|
-|Analysis of bulk RNA-seq data|12, 19 and 26 November 2024|Bioinformatics Training Room, Craik-Marshall Building| Not bookable. Only for SBS MPhill students.|
-|Introduction to R for Biologists|21 and 22 November 2024|Online Training| [Book](https://www.training.cam.ac.uk/bioinformatics/event/5332967)|
-|Analysis of single cell RNA-seq data|2, 6, and 9 December 2024|Online Training|[Book](https://training.cam.ac.uk/bioinformatics/event/5290529)|
-|Reproducible Research in R|3 December 2024|Wellcome Sanger Institute| Not bookable. Only for Sanger PhD students|
-|Introduction to Python for Biologists|12 and 13 December 2024|Online Training|[Book](https://training.cam.ac.uk/bioinformatics/event/5333011)|
+|Introduction to R for Biologists                    | 9 and 10 January 2025| completed|
+|Introduction to bulk RNA-seq data analysis           |3, 7 and 10 February 2025|Online| [Book](https://training.csx.cam.ac.uk/bioinformatics/event/5343935)|
+|Introduction to single-cell RNA-seq data analysis|12, 19 and 26 February 2025||[Book](https://training.csx.cam.ac.uk/bioinformatics/event/5553150)|
+|Hands on with fixed-effects and mixed-effects models| 21 and 28 February 2025| CRUK CI (Internal)| Advertise in January, and book via registration form|
+|Working on HPC Clusters using SLURM|24 and 25 March 2025|Bioinformatics Training Room, Craik-Marshall Building| [Book](https://training.csx.cam.ac.uk/bioinformatics/event/5344737)|
+|Introduction to single-cell RNA-seq data analysis|27, 28 and 31 March 2025|Online Training| [Book](https://training.csx.cam.ac.uk/bioinformatics/event/5344752) CI staff will get early access to this course via email.|
+|Bite-sized course: Introduction to R| March/April 2025|CRUK CI (Internal)|Advertisement in February, and email will follow with details. |
+|Introduction to solving biological problems with Python |8 and 9 April 2025|Bioinformatics Training Room, Craik-Marshall Building| [Book](https://training.csx.cam.ac.uk/bioinformatics/event/5344926)]|
+|Introduction to R for Biologists|6 and 7 May 2025|Online Training|[Book](https://training.csx.cam.ac.uk/bioinformatics/event/5408249)|
+|Introduction to bulk RNA-seq data analysis|21, 22 and 23 May 2025|Bioinformatics Training Room, Craik-Marshall Building|[Book](https://training.csx.cam.ac.uk/bioinformatics/event/5345361) CI staff will get early access to this course via email.|
+|Introduction to solving biological problems with Python| 10 and 11 July 2025|Online Training|[Book](https://training.csx.cam.ac.uk/bioinformatics/event/5345640)|
+|Introduction to single-cell RNA-seq data analysis|10, 11 and 14 July 2025|Bioinformatics Training Room, Craik-Marshall Building|[Book](https://training.csx.cam.ac.uk/bioinformatics/event/5345654) CI staff will get early access to this course via email.|
+
+
+
 
 ___________________________________________________________________________________________________________________________
 Clicking on the links will take you to a registration page. Courses without a booking link are not yet open for registration. These courses are generally popular so book up as early as possible. If a course is already fully booked, it is possible to add yourself to a waiting list from the booking page.
