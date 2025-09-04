@@ -11,20 +11,14 @@ The Bioinformatics Core members run or teach the following training courses.
 
 |Course                                              |       Dates      |       Venue         | Booking Link |
 |----------------------------------------------------|------------------|---------------------|--------------|
-|Introduction to R for Biologists                    | 9 and 10 January 2025| Bioinformatics Training Room, Craik-Marshall Building|completed|
-|Introduction to bulk RNA-seq data analysis           |3, 7 and 10 February 2025|Online| [Book](https://training.csx.cam.ac.uk/bioinformatics/event/5343935)|
-|Introduction to single-cell RNA-seq data analysis|12, 19 and 26 February 2025||[Book](https://training.csx.cam.ac.uk/bioinformatics/event/5553150)|
-|Hands on with fixed-effects and mixed-effects models| 21 and 28 February 2025| CRUK CI (Internal)| Advertisement in January, and book via registration form|
-|Working on HPC Clusters using SLURM|24 and 25 March 2025|Bioinformatics Training Room, Craik-Marshall Building| [Book](https://training.csx.cam.ac.uk/bioinformatics/event/5344737)|
-|Introduction to single-cell RNA-seq data analysis|27, 28 and 31 March 2025|Online Training| [Book](https://training.csx.cam.ac.uk/bioinformatics/event/5344752) CI staff will get early access to this course via email.|
-|Bite-sized course: Introduction to R| March/April 2025|CRUK CI (Internal)|Advertisement in February, and email will follow with details. |
-|Introduction to solving biological problems with Python |8 and 9 April 2025|Bioinformatics Training Room, Craik-Marshall Building| [Book](https://training.csx.cam.ac.uk/bioinformatics/event/5344926)|
-|Introduction to R for Biologists|6 and 7 May 2025|Online Training|[Book](https://training.csx.cam.ac.uk/bioinformatics/event/5408249)|
-|Introduction to bulk RNA-seq data analysis|21, 22 and 23 May 2025|Bioinformatics Training Room, Craik-Marshall Building|[Book](https://training.csx.cam.ac.uk/bioinformatics/event/5345361) CI staff will get early access to this course via email.|
-|Introduction to solving biological problems with Python| 10 and 11 July 2025|Online Training|[Book](https://training.csx.cam.ac.uk/bioinformatics/event/5345640)|
-|Introduction to single-cell RNA-seq data analysis|10, 11 and 14 July 2025|Bioinformatics Training Room, Craik-Marshall Building|[Book](https://training.csx.cam.ac.uk/bioinformatics/event/5345654) CI staff will get early access to this course via email.|
-
-
+|Data analysis in R                    | 15 and 16 September 2025| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5791144)|
+|Data analysis in Python               | 22 and 23 September 2025| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5793683)|
+|Single-cell RNA-seq analysis          | 1,2 and 3 October 2025| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5803450) CI staff will get early access to this course via email.|
+|Introduction to Statistical Analysis          | 3 October 2025| CRUK CI (Internal)|Advertisement in September, and book via registration form|
+|Bulk RNA-seq analysis          | 15,22 and 29 October 2025| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5898670) CI staff will get early access to this course via email.|
+|Bulk RNA-seq analysis          | 18,21 and 25 November 2025| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5894234) CI staff will get early access to this course via email.|
+|Single-cell RNA-seq analysis          | 28 November,1 and 4 December 2025| ONLINE|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5898977) CI staff will get early access to this course via email.|
+|Data analysis in R                    | 2 and 5 December 2025| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5881365)|
 
 
 ___________________________________________________________________________________________________________________________
