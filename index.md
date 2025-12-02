@@ -32,7 +32,7 @@ Many of our courses are part of the programme run by the University of [Cambridg
 
 A full listing of upcoming bioinformatics training courses available under this programme can be found using the following link.
 
-[Bioinformatics Training Facility Course Timetable](https://training.csx.cam.ac.uk/bioinformatics/event-timetable)
+[Bioinformatics Training Facility Course Timetable](https://www.training.cam.ac.uk/bioinformatics/event-timetable)
 
 * **Registration Fees**:
     * **Free** for registered **University of Cambridge PhD students**, but see non-attendance below.
