@@ -12,6 +12,18 @@ The Bioinformatics Core members run or teach the following training courses.
 |Course                                              |       Dates      |       Venue         | Booking Link |
 |----------------------------------------------------|------------------|---------------------|--------------|
 |Bulk RNA-seq analysis          | 15,26 and 19 January 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://training.cam.ac.uk/bioinformatics/event/5853669) CI staff will get early access to this course via email.|
+|Single-cell RNA-seq analysis          | 9,16 and 23 February 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5855145) CI staff will get early access to this course via email.|
+|Fixed and Mixed effects models                   | 16 February 2026| CRUK CI (Internal)|Advertisement in January, and book via registration form|
+|Generalised linear models                    | 11 and 13 February 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5880249)|
+|Data analysis in R                    | 25 and 26 February 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5881674)|
+| bite-sized R                   | March/April 2026| CRUK CI (Internal)|Advertisement in February, and book via registration form|
+|Data analysis in Python               | 5 and 6 March 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://training.cam.ac.uk/bioinformatics/event/5880351)|
+|Bulk RNA-seq analysis          | 25,26 and 27 March 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://training.cam.ac.uk/bioinformatics/event/5855347) CI staff will get early access to this course via email.|
+|Single-cell RNA-seq analysis          | 16,17 and 20 April 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5855672) CI staff will get early access to this course via email.|
+|Data analysis in R                    | 17 and 20 April 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5882247)|
+| Introduction to Experimental design                  | May 2026| CRUK CI (Internal)|Advertisement in April, and book via registration form|
+|Bulk RNA-seq analysis          | 11,14 and 18 May 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5878996) CI staff will get early access to this course via email.|
+|Working on HPC clusters                   | 29 and 30 June 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5879270)|
 
 ___________________________________________________________________________________________________________________________
 
