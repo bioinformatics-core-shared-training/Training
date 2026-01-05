@@ -15,7 +15,7 @@ The Bioinformatics Core members run or teach the following training courses.
 |Single-cell RNA-seq analysis          | 9,16 and 23 February 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5855145) CI staff will get early access to this course via email.|
 |Fixed and Mixed effects models                   | 16 February 2026| CRUK CI (Internal)|Advertisement in January, and book via registration form|
 |Generalised linear models                    | 11 and 13 February 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5880249)|
-|Data analysis in R                    | 25 and 26 February 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5881674)|
+|Data analysis in R                    | 25 and 26 February 2026| Online| [Book](https://training.cam.ac.uk/bioinformatics/event/5881674)|
 | bite-sized R                   | March/April 2026| CRUK CI (Internal)|Advertisement in February, and book via registration form|
 |Data analysis in Python               | 5 and 6 March 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://training.cam.ac.uk/bioinformatics/event/5880351)|
 |Bulk RNA-seq analysis          | 25,26 and 27 March 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://training.cam.ac.uk/bioinformatics/event/5855347) CI staff will get early access to this course via email.|
