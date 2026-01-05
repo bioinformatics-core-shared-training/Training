@@ -11,16 +11,19 @@ The Bioinformatics Core members run or teach the following training courses.
 
 |Course                                              |       Dates      |       Venue         | Booking Link |
 |----------------------------------------------------|------------------|---------------------|--------------|
-|Data analysis in R                    | 15 and 16 September 2025| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5791144)|
-|Data analysis in Python               | 22 and 23 September 2025| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5793683)|
-|Single-cell RNA-seq analysis          | 1,2 and 3 October 2025| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5803450) CI staff will get early access to this course via email.|
-|Introduction to Statistical Analysis          | 3 October 2025| CRUK CI (Internal)|Advertisement in September, and book via registration form|
-|Bulk RNA-seq analysis          | 15,22 and 29 October 2025| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5898670) CI staff will get early access to this course via email.|
-|Bulk RNA-seq analysis          | 18,21 and 25 November 2025| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5894234) CI staff will get early access to this course via email.|
-|Single-cell RNA-seq analysis          | 28 November,1 and 4 December 2025| ONLINE|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5898977) CI staff will get early access to this course via email.|
-|Data analysis in R                    | 2 and 5 December 2025| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5881365)|
-
-
+|Bulk RNA-seq analysis          | 15,26 and 19 January 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://training.cam.ac.uk/bioinformatics/event/5853669) CI staff will get early access to this course via email.|
+|Single-cell RNA-seq analysis          | 9,16 and 23 February 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5855145) CI staff will get early access to this course via email.|
+|Fixed and Mixed effects models                   | 16 February 2026| CRUK CI (Internal)|Advertisement in January, and book via registration form|
+|Generalised linear models                    | 11 and 13 February 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5880249)|
+|Data analysis in R                    | 25 and 26 February 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5881674)|
+| bite-sized R                   | March/April 2026| CRUK CI (Internal)|Advertisement in February, and book via registration form|
+|Data analysis in Python               | 5 and 6 March 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://training.cam.ac.uk/bioinformatics/event/5880351)|
+|Bulk RNA-seq analysis          | 25,26 and 27 March 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://training.cam.ac.uk/bioinformatics/event/5855347) CI staff will get early access to this course via email.|
+|Single-cell RNA-seq analysis          | 16,17 and 20 April 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5855672) CI staff will get early access to this course via email.|
+|Data analysis in R                    | 17 and 20 April 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5882247)|
+| Introduction to Experimental design                  | May 2026| CRUK CI (Internal)|Advertisement in April, and book via registration form|
+|Bulk RNA-seq analysis          | 11,14 and 18 May 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5878996) CI staff will get early access to this course via email.|
+|Working on HPC clusters                   | 29 and 30 June 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5879270)|
 ___________________________________________________________________________________________________________________________
 Clicking on the links will take you to a registration page. Courses without a booking link are not yet open for registration. These courses are generally popular so book up as early as possible. If a course is already fully booked, it is possible to add yourself to a waiting list from the booking page.
 
