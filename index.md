@@ -24,7 +24,9 @@ The Bioinformatics Core members run or teach the following training courses.
 | Introduction to Experimental design                  | May 2026| CRUK CI (Internal)|Advertisement in April, and book via registration form|
 |Bulk RNA-seq analysis          | 11,14 and 18 May 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/5878996) CI staff will get early access to this course via email.|
 |Working on HPC clusters                   | 29 and 30 June 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://www.training.cam.ac.uk/bioinformatics/event/5879270)|
+
 ___________________________________________________________________________________________________________________________
+
 Clicking on the links will take you to a registration page. Courses without a booking link are not yet open for registration. These courses are generally popular so book up as early as possible. If a course is already fully booked, it is possible to add yourself to a waiting list from the booking page.
 
 Please contact **Chandra Chilamakuri** for more information on our training courses.
