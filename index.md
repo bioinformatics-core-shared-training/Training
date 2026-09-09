@@ -13,6 +13,7 @@ The Bioinformatics Core members run or teach the following training courses.
 |----------------------------------------------------|------------------|---------------------|--------------|
 |Core Statistics          | 21, 22 and 23 September 2026| CCRIT eLearning - Clinical School (level 2)|[Book](https://training.cam.ac.uk/bioinformatics/event/6420578)|
 |Data analysis in R          | 24 and 25 September 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://training.cam.ac.uk/bioinformatics/event/6429029)|
+|Claude Training|6 October 2026|CI room 215|Internal course and advertisement in September|
 |Single-cell RNA-seq analysis          | 9, 12 and 16 October 2026| Online|[Book](https://training.cam.ac.uk/bioinformatics/event/6428349) CI staff will get early access to this course via email.|
 |Spatial Transcriptomics Analysis          | 2, 9 and 16 November 2026| CCRIT eLearning - Clinical School (level 2)|[Book](https://training.cam.ac.uk/bioinformatics/event/6429293)|
 |Working on HPC clusters          | 18, 19 and 20 November 2026| Research Informatics Training Room, Craik-Marshall Building|[Book](https://training.cam.ac.uk/bioinformatics/event/6432246)|
