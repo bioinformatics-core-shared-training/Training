@@ -35,10 +35,10 @@ A full listing of upcoming bioinformatics training courses available under this 
 
 * **Registration Fees**:
     * **Free** for registered **University of Cambridge PhD students**, but see non-attendance below.
-    * **£60** per day for all University of Cambridge staff including postdocs; these charges are recovered at the departmental or institutional level.
+    * **£65** per day for all University of Cambridge staff including postdocs; these charges are recovered at the departmental or institutional level.
     * **CRUK CI staff only**: the institute no longer covers the cost of registration fees, these are now cross-charged to your group budget or a grant cost code (let the finance team know if you want the latter).
     * Please cancel your booking if you are unable to attend as this will free up a space for someone on the waiting list.
-    * There is a **penalty fee of £20 per day for non-attendance of students** that will be charged to your responsible department or you personally should the department
+    * There is a **penalty fee of £22 per day for non-attendance of students** that will be charged to your responsible department or you personally should the department
     * Further details of the charging policy can be found [here](https://training.csx.cam.ac.uk/bioinformatics/info/charging)
 
 ### Course Index and Materials
